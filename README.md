@@ -1,6 +1,6 @@
 # AppleMetalRenderingCheatSheets
 
-A set of cheat sheets useful when developing iOS Apps with Metal.
+[ A set of cheat sheets useful when developing iOS Apps with Metal.[PDF] ](./AppleMetalCheatSheets.pdf)
 
 # Pages
 
